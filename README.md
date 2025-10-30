@@ -1,4 +1,4 @@
-a **complete step-by-step guide** to connect an **EC2 instance as a Jenkins agent** and create a pipeline that runs jobs on it.
+A **complete step-by-step guide** to connect an **EC2 instance as a Jenkins agent** and create a pipeline that runs jobs on it.
 
 ---
 
